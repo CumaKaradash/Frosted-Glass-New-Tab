@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Frosted Focus",
+  "version": "1.0.0",
+  "description": "Estetik ve minimalist bir New Tab eklentisi.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [],
+  "icons": {
+    "16": "icon.svg",
+    "48": "icon.svg",
+    "128": "icon.svg"
+  }
+}
